@@ -1,13 +1,13 @@
 ---
-name: educational-presentation-brand
-description: Create or adapt educational presentations using the user's established visual brand. Use when the user asks for slide decks, PowerPoint templates, presentation visual guidelines, brand guidelines, educational modules, simulacros, reading-analysis decks, or any presentation that should follow the existing style: #f8fafc backgrounds, black titles, #4b5563 body text, #059669 green accents, white cards, #e5e7eb borders, and #ff4444 error states.
+name: presentation-pptx
+description: Create or adapt PPTX/PowerPoint educational presentations using the user's established visual brand. Use when the user asks for slide decks, PowerPoint templates, PPTX generation, presentation visual guidelines, educational modules, simulacros, reading-analysis decks, or any presentation that should follow the existing style: #f8fafc backgrounds, black titles, #4b5563 body text, #059669 green accents, white cards, #e5e7eb borders, and #ff4444 error states.
 ---
 
-# Educational Presentation Brand
+# Presentation PPTX
 
 ## Purpose
 
-Use this skill to create, revise, or evaluate presentations so they match the user's educational visual system. The style is clean, academic, modern, structured, and highly legible.
+Use this skill to create, revise, or evaluate PPTX/PowerPoint presentations so they match the user's educational visual system. The style is clean, academic, modern, structured, and highly legible.
 
 For detailed rules, read `references/visual-guidelines.md` when creating a full deck, auditing visual consistency, or making design decisions beyond a single slide.
 
