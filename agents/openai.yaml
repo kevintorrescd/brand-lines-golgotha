@@ -1,0 +1,4 @@
+interface:
+  display_name: "Educational Presentation Brand"
+  short_description: "Create slides with the user educational visual system."
+  default_prompt: "Use this skill to create or adapt educational presentations using the established visual guide: #f8fafc backgrounds, black titles, #4b5563 body text, #059669 accents, white cards, #e5e7eb borders, and #ff4444 error states."
